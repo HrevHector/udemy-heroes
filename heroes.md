@@ -8,3 +8,6 @@
 * Robin
 * Volcán Negro
 * Flash
+* Green Arrow
+* Black Canary
+* Atom
